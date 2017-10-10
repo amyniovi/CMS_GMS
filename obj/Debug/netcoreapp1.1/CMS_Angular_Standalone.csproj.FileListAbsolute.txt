@@ -1,0 +1,11 @@
+C:\Development\CMS\CMS_Angular_Standalone\CMS_Angular_Standalone\bin\Debug\netcoreapp1.1\CMS_Angular_Standalone.deps.json
+C:\Development\CMS\CMS_Angular_Standalone\CMS_Angular_Standalone\bin\Debug\netcoreapp1.1\CMS_Angular_Standalone.runtimeconfig.json
+C:\Development\CMS\CMS_Angular_Standalone\CMS_Angular_Standalone\bin\Debug\netcoreapp1.1\CMS_Angular_Standalone.runtimeconfig.dev.json
+C:\Development\CMS\CMS_Angular_Standalone\CMS_Angular_Standalone\bin\Debug\netcoreapp1.1\CMS_Angular_Standalone.dll
+C:\Development\CMS\CMS_Angular_Standalone\CMS_Angular_Standalone\bin\Debug\netcoreapp1.1\CMS_Angular_Standalone.pdb
+C:\Development\CMS\CMS_Angular_Standalone\CMS_Angular_Standalone\obj\Debug\netcoreapp1.1\CMS_Angular_Standalone.csprojResolveAssemblyReference.cache
+C:\Development\CMS\CMS_Angular_Standalone\CMS_Angular_Standalone\obj\Debug\netcoreapp1.1\CMS_Angular_Standalone.csproj.CoreCompileInputs.cache
+C:\Development\CMS\CMS_Angular_Standalone\CMS_Angular_Standalone\obj\Debug\netcoreapp1.1\CMS_Angular_Standalone.AssemblyInfoInputs.cache
+C:\Development\CMS\CMS_Angular_Standalone\CMS_Angular_Standalone\obj\Debug\netcoreapp1.1\CMS_Angular_Standalone.AssemblyInfo.cs
+C:\Development\CMS\CMS_Angular_Standalone\CMS_Angular_Standalone\obj\Debug\netcoreapp1.1\CMS_Angular_Standalone.dll
+C:\Development\CMS\CMS_Angular_Standalone\CMS_Angular_Standalone\obj\Debug\netcoreapp1.1\CMS_Angular_Standalone.pdb
